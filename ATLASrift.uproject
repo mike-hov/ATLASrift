@@ -97,16 +97,17 @@
 			"Enabled": false
 		},
 		{
-			"Name": "SteamController",
-			"Enabled": true
+			"Name": "DatasmithImporter",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/item/5aeb453ca66e4db2964fd0ab25e4fd8d"
 		},
 		{
-			"Name": "OnlineSubsystemSteam",
-			"Enabled": true
+			"Name": "DatasmithCADImporter",
+			"Enabled": false
 		},
 		{
-			"Name": "SteamAudio",
-			"Enabled": true
+			"Name": "SteamVR",
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
